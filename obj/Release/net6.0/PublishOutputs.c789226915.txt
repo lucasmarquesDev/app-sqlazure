@@ -1,0 +1,14 @@
+C:\Users\marqu\source\app-sqlazure\bin\Release\net6.0\publish\app-sqlazure.exe
+C:\Users\marqu\source\app-sqlazure\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\marqu\source\app-sqlazure\bin\Release\net6.0\publish\appsettings.json
+C:\Users\marqu\source\app-sqlazure\bin\Release\net6.0\publish\app-sqlazure.dll
+C:\Users\marqu\source\app-sqlazure\bin\Release\net6.0\publish\app-sqlazure.deps.json
+C:\Users\marqu\source\app-sqlazure\bin\Release\net6.0\publish\app-sqlazure.runtimeconfig.json
+C:\Users\marqu\source\app-sqlazure\bin\Release\net6.0\publish\app-sqlazure.pdb
+C:\Users\marqu\source\app-sqlazure\bin\Release\net6.0\publish\Dapper.dll
+C:\Users\marqu\source\app-sqlazure\bin\Release\net6.0\publish\System.Data.SqlClient.dll
+C:\Users\marqu\source\app-sqlazure\bin\Release\net6.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\marqu\source\app-sqlazure\bin\Release\net6.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\marqu\source\app-sqlazure\bin\Release\net6.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\marqu\source\app-sqlazure\bin\Release\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marqu\source\app-sqlazure\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
